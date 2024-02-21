@@ -1,0 +1,31 @@
+{
+  "name": "flutter_file_view",
+  "version": "2.0.5",
+  "summary": "A file viewer plugin for Flutter, support local file and network link of Android, iOS.",
+  "description": "A file viewer plugin for Flutter, support local file and network link of Android, iOS.",
+  "homepage": "https://github.com/LiWenHui96/flutter_file_view",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "LiWeNHuI": "sdgrlwh@163.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
