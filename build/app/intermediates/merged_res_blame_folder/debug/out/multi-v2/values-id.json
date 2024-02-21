@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/fabriziobattiloro/StudioProjects/progetto_uno_v2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "/Users/fabriziobattiloro/.gradle/caches/transforms-2/files-2.1/85d9563cd3bfb5adf801372b04fbecdf/jetified-zxing-android-embedded-4.3.0/res/values-id/values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,293",
+                        "endColumns": "58,46,131,108",
+                        "endOffsets": "109,156,288,397"
+                    }
+                }
+            ]
+        }
+    ]
+}

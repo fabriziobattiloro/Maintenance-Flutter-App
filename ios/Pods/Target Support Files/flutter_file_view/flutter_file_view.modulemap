@@ -1,0 +1,6 @@
+framework module flutter_file_view {
+  umbrella header "flutter_file_view-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915169160548",
+    "project_id": "ethos-app-400e3",
+    "storage_bucket": "ethos-app-400e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915169160548:android:0d83993e8aa1eb5d2b5e71",
+        "android_client_info": {
+          "package_name": "com.example.progetto_uno_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915169160548-shos5262b2ve3qrt15crb3s6c3pd606o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyRG3dD8z6ZcSESHLvAfeyo3yeDxlA42U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915169160548-shos5262b2ve3qrt15crb3s6c3pd606o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
